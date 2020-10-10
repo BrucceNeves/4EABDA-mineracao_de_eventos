@@ -22,6 +22,10 @@ reais para discutir o conteúdo do minicurso de forma interativa.
 
 - [Apresentação/Slides do Curso de Mineração de Eventos](mini-curso-mineracao-eventos-2020.pdf)
 
+Os exemplos práticos do curso estão escritos na linguagem Python. É um curso introdutório e não exige conhecimentos prévios sobre programação. Todas as práticas serão executadas em aula e o material ficará disponível aos inscritos.
+
+Para a execução das práticas iremos usar o Google Colab. Assim, é necessário ter uma conta vinculada ao GMail.
+
 - Prática #1
 https://colab.research.google.com/drive/1dsnwenn19kPZSsEbEMgJUj4gKcYDdOyn?usp=sharing
 
@@ -39,3 +43,8 @@ https://colab.research.google.com/drive/12ypjDUA2YTvfzSYU9d44PFBp8UI4A6tN?usp=sh
 
 - Prática #6
 https://colab.research.google.com/drive/1fU_J26uYH3NCgv6WY5jMAtOLEAP-OKkj?usp=sharing
+
+<p align="center">
+  <img width="420" src="https://i.imgur.com/uidvRpd.png">
+  <img width="420" src="http://www.cemeai.icmc.usp.br/4EABDA/wp-content/uploads/2020/08/big-data-768x300.jpg">
+</p>
