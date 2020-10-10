@@ -20,7 +20,7 @@ inteligência analítica). Nesse minicurso, serão apresentados uma visão teór
 Mineração de Eventos, com a execução de ferramentas de código-aberto a partir de dados
 reais para discutir o conteúdo do minicurso de forma interativa.
 
-- [Apresentação/Slides do Curso de Mineração de Eventos](mini-curso-mineracao-eventos-2020.pdf)
+- [Apresentação/Slides do Curso de Mineração de Eventos](https://github.com/BrucceNeves/4EABDA-mineracao_de_eventos/raw/main/mini-curso-mineracao-eventos-2020.pdf)
 
 Os exemplos práticos do curso estão escritos na linguagem Python. É um curso introdutório e não exige conhecimentos prévios sobre programação. Todas as práticas serão executadas em aula e o material ficará disponível aos inscritos.
 
